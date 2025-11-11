@@ -23,7 +23,7 @@ Render is a cloud platform that can host web apps and backend services. Follow t
    - **Region:** Choose the region closest to your users.
 
 4. **Environment Variables**  
-   Change *JTAICB_API_KEY* to your Gemini API Key.
+   Change *JTAICB_API_KEY* to your [Gemini API Key](https://aistudio.google.com/apikey)
 
 5. **Deploy**  
    Click **Create Web Service**. Render will automatically build and start your app. You’ll receive a public URL like `https://jiaicb-template.onrender.com`.
