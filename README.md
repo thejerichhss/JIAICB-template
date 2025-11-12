@@ -1,4 +1,4 @@
-## Deployment
+## (DISCLAIMER: CREDIT JIAICB IN YOUR PROJECT BY STATING IN ANY WAY, SHAPE, OR FORM THAT IT IS POWERED BY JIAICB)
 
 ### 1. Deploying on Render
 Render is a cloud platform that can host web apps and backend services. Follow these steps to deploy this template:
