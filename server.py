@@ -11,7 +11,7 @@ from urllib.parse import parse_qs, urlparse
 
 # ---------- CONFIG ----------
 VERSION = "v0.78"
-API_KEY = os.environ.get("JTAICB_API_KEY")
+API_KEY = api_key_here
 MEMORY_FILE = os.environ.get("JTAICB_MEMORY_FILE", "./data/memory.json")
 GEMINI_URL = ("https://generativelanguage.googleapis.com/"
               "v1beta/models/gemini-2.0-flash:generateContent")
