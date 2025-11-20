@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: jtaicb
-    env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn server:app
-    envVars:
-      - key: JTAICB_API_KEY
-        sync: false
